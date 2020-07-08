@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="./.github/LogoNACBanhia.png" width="250" height="200">
+<img src="./.github/LogoNACBanhia.png" width="350" height="350">
 </p>
 
 ___

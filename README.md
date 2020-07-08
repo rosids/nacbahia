@@ -1,5 +1,3 @@
-<h2 align="center">NAC - Bahia</h2>
-
 <p align="center">
   <img src="https://readme-maker.herokuapp.com/uploads/59971ef5dc9f02cf-logo.jpg" width="300" heigth="300">
 </p>

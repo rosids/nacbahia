@@ -22,7 +22,7 @@ Desenvolvimento de uma aplicação para instituição filantrópica NACBahia, lo
 ## :interrobang: Motivo
 Divulgação da instituição para que um número maior de pessoas possa ser ajudada e quem tiver recursos ajudar.
 
-## Requisitos Funcionais Desenvolvidas 
+## Requisitos Funcionais 
 | RF   | Funcionalidades  |
 |  :-: |---|
 | RF01 | Manter Serviços  |

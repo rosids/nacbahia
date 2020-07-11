@@ -26,13 +26,15 @@ O Núcleo de Assistência Comunitária da Bahia|(Nac) é uma Instituição filan
 
 Suas áreas de atuação incluem:
 <strong>
-- Apoio à gestão de organizações de Terceiro Setor;
-- Assistência Social;
-- Cultura e Artes;
-- Defesa de Direitos;
-- Desenvolvimento Comunitário;
-- Educação, Saúde e Esportes;
-- Empreendedorismo/Geração de Emprego e Renda;
+- 1 Apoio à gestão de organizações de Terceiro Setor
+- 2 Assistência Social
+- 3 Psicólogo
+- 4 Cultura e Artes
+- 5 Defesa de Direitos
+- 6 Desenvolvimento Comunitário
+- 7 Educação, Saúde e Esportes
+- 8 Empreendedorismo/Geração de Emprego e Renda
+- 9 Doações
 </strong>
 
 Os trabalhos sociais são desenvolvidos através de ações de prevenção, e acompanhamento psicossocial individual e/ou em grupo, construindo uma prática comprometida com o indivíduo.
@@ -41,17 +43,21 @@ Os trabalhos sociais são desenvolvidos através de ações de prevenção, e ac
 Divulgar, através de uma plataforma, os serviços oferecidos pela instituição, tais como ações comunitárias e possibilidades para doações. 
 
 ## Requisitos Funcionais 
-| RF   | Funcionalidades  |
-|  :-: |---|
-| RF01 | Manter Serviços  |
-|      |Visualização de serviços prestados (Disponíveis)   |
+| RF   | Funcionalidades  | Ações 
+|  :-: |---|---|
+| RF01 | Manter Serviços   | 2 - 3 - 5 | 
+|      |Visualização de serviços prestados (Disponíveis)   
 |      |Agendamento de um serviço   |
-| RF02 | Manter Cursos  |
-|      |Visualização dos cursos disponíveis   |
+| RF02 | Manter Cursos  | 4 - 7 - 8 |
+|      |Visualização dos cursos disponíveis   
 |      |Inscrição em um curso   |
-| RF03 |Cadastro de instrutor - Curso   |
+| RF03 |Cadastro de instrutor - Curso   | 4 - 7 - 8 
 |      |Inscrição em um curso   |
-|      ||
+| RF04 | Ações |  1 - 5 - 8 - 7 - 9
+|      | Page Mostrando ações ONG |
+|      |    |
+
+
 
 
 ## Desenvolvedores do projeto 

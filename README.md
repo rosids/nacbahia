@@ -40,7 +40,10 @@ Suas áreas de atuação incluem:
 Os trabalhos sociais são desenvolvidos através de ações de prevenção, e acompanhamento psicossocial individual e/ou em grupo, construindo uma prática comprometida com o indivíduo.
 
 ## :interrobang: Objetivo
-Divulgar, através de uma plataforma, os serviços oferecidos pela instituição, tais como ações comunitárias e possibilidades para doações. 
+
+Devido a pandemia pelo COVID-19, a Instituição, assim como a maioria dos empreendimentos, teve que adaptar-se as regras sanitárias estabelecidas. Apesar de possuirem redes de mídia social, como Facebook, Instagram e blogs, os procedimentos tratados como presenciais foram bastante prejudicados.
+Dessa forma, o objetivo do projeto é proporcionar à Instituição uma ferramenta de controle(no caso, um site) para os seus serviços e projetos e a divulgação dos mesmos,
+envolvendo as pessoas que foram prejudicadas como também ampliando sua visibilidade social.    
 
 ## Requisitos Funcionais 
 | RF   | Funcionalidades  | Ações 
